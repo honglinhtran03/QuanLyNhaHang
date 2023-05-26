@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1062701932809",
+    "project_id": "quanlynhahang-d841d",
+    "storage_bucket": "quanlynhahang-d841d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1062701932809:android:d7f6dd19b0286388a533d8",
+        "android_client_info": {
+          "package_name": "com.nhomduan.quanlyungdungdathang"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1062701932809-6c76goqv5rict3gnk7r0gjaar5t81iks.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdt-39gJZJEQpY07SM_FJCFF0kh0ATWpk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1062701932809-6c76goqv5rict3gnk7r0gjaar5t81iks.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
